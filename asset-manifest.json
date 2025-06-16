@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SmartFridge/static/css/main.12246a7f.chunk.css",
-    "main.js": "/SmartFridge/static/js/main.017dfcdd.chunk.js",
-    "main.js.map": "/SmartFridge/static/js/main.017dfcdd.chunk.js.map",
+    "main.js": "/SmartFridge/static/js/main.58b259f7.chunk.js",
+    "main.js.map": "/SmartFridge/static/js/main.58b259f7.chunk.js.map",
     "runtime~main.js": "/SmartFridge/static/js/runtime~main.8c56edbf.js",
     "runtime~main.js.map": "/SmartFridge/static/js/runtime~main.8c56edbf.js.map",
     "static/js/2.c81f8f06.chunk.js": "/SmartFridge/static/js/2.c81f8f06.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2308379b.chunk.js": "/SmartFridge/static/js/3.2308379b.chunk.js",
     "static/js/3.2308379b.chunk.js.map": "/SmartFridge/static/js/3.2308379b.chunk.js.map",
     "index.html": "/SmartFridge/index.html",
-    "precache-manifest.337c628bdd852813bc706766a6c88574.js": "/SmartFridge/precache-manifest.337c628bdd852813bc706766a6c88574.js",
+    "precache-manifest.b3bf6e1248a4f02e8df3532d52ce7f3b.js": "/SmartFridge/precache-manifest.b3bf6e1248a4f02e8df3532d52ce7f3b.js",
     "service-worker.js": "/SmartFridge/service-worker.js",
     "static/css/main.12246a7f.chunk.css.map": "/SmartFridge/static/css/main.12246a7f.chunk.css.map"
   }
