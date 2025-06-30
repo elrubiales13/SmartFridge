@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SmartFridge/precache-manifest.d19e3b64ee988a1d223702387cc85e05.js"
+  "/SmartFridge/precache-manifest.db46d6ec0e0b176997c96edb4096eef6.js"
 );
 
 self.addEventListener('message', (event) => {
